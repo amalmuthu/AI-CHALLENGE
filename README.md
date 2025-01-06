@@ -20,16 +20,7 @@ Install dependencies
   pip install -r requirements.txt
 Run the application
   python app.py
-Project Structure
-├── app.py                 # Main Flask application
-├── templates/
-│   └── index.html        # Main dashboard template
-├── static/
-│   ├── css/             # Stylesheets
-│   └── js/              # JavaScript files
-└── models/
-    ├── ai_model.py      # AI model implementations
-    └── analytics.py     # Analytics processing
+
 AI Models
 LSTM Model
 •	Predicts student performance
