@@ -1,5 +1,5 @@
 AI-Powered Adaptive Learning System
-Overview
+
 This project implements an intelligent learning platform that adapts to individual student needs using AI technologies. It combines LSTM and Random Forest algorithms to provide personalized learning experiences and real-time performance tracking.
 Features
 •	Personalized learning path recommendations
@@ -14,12 +14,10 @@ Technical Stack
 •	AI/ML: TensorFlow, Scikit-learn
 •	Data Processing: NumPy, Pandas
 •	Visualization: Chart.js
-Installation
-1.	Clone the repository
-git clone https://github.com/faizalcareers/AdaptiveLearning.git
-2.	Install dependencies
+
+1.	Install dependencies
 pip install -r requirements.txt
-3.	Run the application
+2.	Run the application
 python app.py
 Project Structure
 ├── app.py                 # Main Flask application
