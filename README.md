@@ -14,10 +14,7 @@ Technical Stack
 •	AI/ML: TensorFlow, Scikit-learn
 •	Data Processing: NumPy, Pandas
 •	Visualization: Chart.js
-Installation
 
-Install dependencies
-  pip install -r requirements.txt
 Run the application
   python app.py
 
